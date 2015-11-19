@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1445229704 source:c:\users\gabor\google drive\mathfinance\optionpricer4\payoff3.cpp
+	<algorithm>
+	"PayOff3.h"
+
+1445623668 c:\users\gabor\google drive\mathfinance\optionpricer4\payoff3.h
+
+1445687794 source:c:\users\gabor\google drive\mathfinance\optionpricer4\payoffbridge.cpp
+	"PayOffBridge.h"
+
+1445687784 c:\users\gabor\google drive\mathfinance\optionpricer4\payoffbridge.h
+	"PayOff3.h"
+
+1444552762 source:c:\users\gabor\google drive\mathfinance\optionpricer4\random1.cpp
+	"Random1.h"
+	<cmath>
+	<cstdlib>
+
+1444552447 c:\users\gabor\google drive\mathfinance\optionpricer4\random1.h
+
+1445232578 source:c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc4.cpp
+	"SimpleMC4.h"
+	"Random1.h"
+	<cmath>
+
+1445691751 c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc4.h
+	"Vanilla3.h"
+
+1445688406 c:\users\gabor\google drive\mathfinance\optionpricer4\vanilla3.h
+	"PayOffBridge.h"
+
+1445692014 source:c:\users\gabor\google drive\mathfinance\optionpricer4\vanillamain3.cpp
+	"SimpleMC4.h"
+	"DoubleDigital2.h"
+	"Vanilla3.h"
+	<iostream>
+
+1445623760 c:\users\gabor\google drive\mathfinance\optionpricer4\doubledigital2.h
+	"PayOff3.h"
+
+1445230311 source:c:\users\gabor\google drive\mathfinance\optionpricer4\doubledigital2.cpp
+	"DoubleDigital2.h"
+
+1445688412 source:c:\users\gabor\google drive\mathfinance\optionpricer4\vanilla3.cpp
+	"Vanilla3.h"
+
+1447226036 source:c:\users\gabor\google drive\mathfinance\optionpricer4\parameters.cpp
+	"Parameters.h"
+	<algorithm>
+	<iostream>
+
+1447137747 c:\users\gabor\google drive\mathfinance\optionpricer4\parameters.h
+	"Arrays.h"
+
+1445698031 source:c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc6.cpp
+	"SimpleMC6.h"
+	"Random1.h"
+	<cmath>
+
+1445697871 c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc6.h
+	"Vanilla3.h"
+	"Parameters.h"
+
+1445699240 source:c:\users\gabor\google drive\mathfinance\optionpricer4\mcstatistics.cpp
+	"MCStatistics.h"
+
+1445698632 c:\users\gabor\google drive\mathfinance\optionpricer4\mcstatistics.h
+	<vector>
+
+1445700844 source:c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc7.cpp
+	"SimpleMC7.h"
+	"Random1.h"
+	<cmath>
+
+1445700848 c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc7.h
+	"Vanilla3.h"
+	"Parameters.h"
+	"MCStatistics.h"
+
+1445713665 source:c:\users\gabor\google drive\mathfinance\optionpricer4\convergencetable.cpp
+	"ConvergenceTable.h"
+
+1445713411 c:\users\gabor\google drive\mathfinance\optionpricer4\convergencetable.h
+	"MCStatistics.h"
+	"Wrapper.h"
+	<vector>
+
+1445713329 c:\users\gabor\google drive\mathfinance\optionpricer4\wrapper.h
+
+1445713536 source:c:\users\gabor\google drive\mathfinance\optionpricer4\statsmain2.cpp
+	"SimpleMC7.h"
+	"DoubleDigital2.h"
+	"Vanilla3.h"
+	"Parameters.h"
+	"MCStatistics.h"
+	"ConvergenceTable.h"
+	<iostream>
+
+1447137503 source:c:\users\gabor\google drive\mathfinance\optionpricer4\arrays.cpp
+	"Arrays.h"
+	<algorithm>
+	<numeric>
+
+1447137376 c:\users\gabor\google drive\mathfinance\optionpricer4\arrays.h
+	<valarray>
+
+1446906996 source:c:\users\gabor\google drive\mathfinance\optionpricer4\normals.cpp
+	<cmath>
+	"Normals.h"
+
+1446619171 c:\users\gabor\google drive\mathfinance\optionpricer4\normals.h
+
+1446907027 source:c:\users\gabor\google drive\mathfinance\optionpricer4\random2.cpp
+	"Random2.h"
+	"Normals.h"
+	<cstdlib>
+
+1446618059 c:\users\gabor\google drive\mathfinance\optionpricer4\random2.h
+	"Arrays.h"
+
+1446989688 source:c:\users\gabor\google drive\mathfinance\optionpricer4\parkmiller.cpp
+	"ParkMiller.h"
+
+1446989604 c:\users\gabor\google drive\mathfinance\optionpricer4\parkmiller.h
+	"Random2.h"
+
+1446993509 source:c:\users\gabor\google drive\mathfinance\optionpricer4\antithehetic.cpp
+	"AntiThehetic.h"
+
+1446991466 c:\users\gabor\google drive\mathfinance\optionpricer4\antithehetic.h
+	"Random2.h"
+	"Wrapper.h"
+
+1446993457 source:c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc8.cpp
+	"SimpleMC8.h"
+	<cmath>
+	"Arrays.h"
+
+1446993526 c:\users\gabor\google drive\mathfinance\optionpricer4\simplemc8.h
+	"Vanilla3.h"
+	"Parameters.h"
+	"Random2.h"
+	"MCStatistics.h"
+
+1446993597 source:c:\users\gabor\google drive\mathfinance\optionpricer4\randommain3.cpp
+	"ParkMiller.h"
+	"AntiThehetic.h"
+	"SimpleMC8.h"
+	"DoubleDigital2.h"
+	"Vanilla3.h"
+	"MCStatistics.h"
+	"ConvergenceTable.h"
+	<iostream>
+
+1447225955 source:c:\users\gabor\google drive\mathfinance\optionpricer4\testpiecewiseconstant.cpp
+	"Parameters.h"
+	"Arrays.h"
+	<iostream>
+

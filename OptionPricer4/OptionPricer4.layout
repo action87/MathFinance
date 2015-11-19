@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AntiThehetic.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="395" topLine="0" />
+	</File>
+	<File name="Arrays.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1117" topLine="24" />
+	</File>
+	<File name="Arrays.h" open="0" top="0" tabpos="5">
+		<Cursor position="1267" topLine="26" />
+	</File>
+	<File name="ConvergenceTable.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="118" topLine="0" />
+	</File>
+	<File name="ConvergenceTable.h" open="1" top="0" tabpos="3">
+		<Cursor position="497" topLine="0" />
+	</File>
+	<File name="MCStatistics.h" open="1" top="0" tabpos="2">
+		<Cursor position="709" topLine="0" />
+	</File>
+	<File name="Normals.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="354" topLine="3" />
+	</File>
+	<File name="Normals.h" open="0" top="0" tabpos="8">
+		<Cursor position="172" topLine="0" />
+	</File>
+	<File name="Parameters.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="2629" topLine="63" />
+	</File>
+	<File name="Parameters.h" open="1" top="0" tabpos="1">
+		<Cursor position="1536" topLine="29" />
+	</File>
+	<File name="ParkMiller.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="501" topLine="29" />
+	</File>
+	<File name="ParkMiller.h" open="0" top="0" tabpos="6">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="PayOff3.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="431" topLine="0" />
+	</File>
+	<File name="PayOff3.h" open="0" top="0" tabpos="0">
+		<Cursor position="180" topLine="0" />
+	</File>
+	<File name="Random1.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="325" topLine="0" />
+	</File>
+	<File name="Random1.h" open="0" top="0" tabpos="3">
+		<Cursor position="126" topLine="0" />
+	</File>
+	<File name="Random2.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="430" topLine="0" />
+	</File>
+	<File name="Random2.h" open="0" top="0" tabpos="4">
+		<Cursor position="709" topLine="0" />
+	</File>
+	<File name="RandomMain3.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="547" topLine="19" />
+	</File>
+	<File name="SimpleMC4.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="251" topLine="0" />
+	</File>
+	<File name="SimpleMC4.h" open="0" top="0" tabpos="0">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="SimpleMC6.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="SimpleMC6.h" open="0" top="0" tabpos="5">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="SimpleMC7.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="304" topLine="0" />
+	</File>
+	<File name="SimpleMC7.h" open="0" top="0" tabpos="0">
+		<Cursor position="472" topLine="0" />
+	</File>
+	<File name="SimpleMC8.h" open="0" top="0" tabpos="8">
+		<Cursor position="543" topLine="0" />
+	</File>
+	<File name="StatsMain1.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="3" />
+	</File>
+	<File name="StatsMain2.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="722" topLine="10" />
+	</File>
+	<File name="TestPieceWiseConstant.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="186" topLine="0" />
+	</File>
+	<File name="Vanilla3.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="153" topLine="0" />
+	</File>
+	<File name="Vanilla3.h" open="0" top="0" tabpos="2">
+		<Cursor position="280" topLine="0" />
+	</File>
+	<File name="VanillaMain3.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="VanillaMain4.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="158" topLine="17" />
+	</File>
+	<File name="Wrapper.h" open="0" top="0" tabpos="0">
+		<Cursor position="236" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
